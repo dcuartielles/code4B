@@ -4,7 +4,7 @@
  * can be controlled from an Arduino board
  * or using the mouse
  *
- * (c) 2012 B & D Cuartielles
+ * (c) 2012 B & D Cuartielles, GPL v3.0
  * Made at CoderDojo Malmo
  *
  * References:
